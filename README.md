@@ -212,3 +212,6 @@ All the Admins of our [discussion groups](https://telegram.me/gbgroups) about Gr
 All the people who reported bugs and suggested new stuff
 
 Le Laide
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jithumon/tgbot)
